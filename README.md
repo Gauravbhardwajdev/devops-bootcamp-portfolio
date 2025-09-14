@@ -17,6 +17,7 @@ This portfolio exclusively features tools and practices taught in the course:
 
 | Category                  | Tools & Platforms                          |
 |---------------------------|--------------------------------------------|
+| Scripting & Automation    | Linux Shell Scripting                      |
 | Version Control           | Git, GitHub                                |
 | Containerization          | Docker                                     |
 | CI/CD Pipelines           | Jenkins, GitLab CI/CD, Azure DevOps        |
@@ -25,7 +26,7 @@ This portfolio exclusively features tools and practices taught in the course:
 | Configuration Management  | Ansible                                    |
 | Monitoring & Visualization| Prometheus, Grafana                        |
 | Cloud Platforms           | AWS (EC2, S3, IAM), Azure                  |
-| Scripting & Automation    | Linux Shell Scripting                      |
+
 
 ---
 
