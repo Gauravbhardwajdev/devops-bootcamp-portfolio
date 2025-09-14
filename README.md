@@ -78,6 +78,6 @@ Whether you're a recruiter, mentor, or fellow learner, I invite you to explore t
 
 **Gaurav Dhwaj**  
 QA Engineer → DevOps | Automation Enthusiast | Cloud Learner  
-🔗 🔗 [LinkedIn https://www.linkedin.com/in/iamgauravbhardwajb/ • 📁 [Portfolio](https://github.com/Gaurabdhwajdev/devops-bootstrap-portfolio)
+🔗 [LinkedIn https://www.linkedin.com/in/iamgauravbhardwajb/ • 📁 [Portfolio](https://github.com/Gaurabdhwajdev/devops-bootstrap-portfolio)
 
 ---
